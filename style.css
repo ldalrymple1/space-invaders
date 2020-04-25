@@ -28,3 +28,12 @@
   border-radius: 5px;
   
 }
+
+.player {
+  background-color: rgb(219, 130, 215);
+  border: 2px solid pink;
+}
+
+.alien {
+  background-color: rgb(106, 106, 231);
+}
